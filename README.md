@@ -1,4 +1,4 @@
-### :man_technologist: Olá, eu sou a Aline Midori! Bem vindo ao meu GitHub 👋 
+### :woman_technologist: Olá, eu sou a Aline Midori! Bem vindo ao meu GitHub 👋 
 
 ||Desenvolvedora Java Full Stack||
 
